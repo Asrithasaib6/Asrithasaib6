@@ -4,6 +4,7 @@
 
 Software Engineer with 2+ years of experience building reliable and scalable software systems. Passionate about backend development, Data Structures & Algorithms, and solving complex engineering problems.
 
+---
 ## 🌐 Socials
 
 <p>
@@ -49,8 +50,6 @@ Deep learning project for MRI image classification using Python, TensorFlow, and
 * Solved 1000+ problems on LeetCode.
 * Research presented at the 3rd IEEE ICDCECE-2024.
 * Merit Scholarship recipient for academic excellence.
-
----
 
 
 ---
