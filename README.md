@@ -1,6 +1,6 @@
 # Hi 👋, I'm Asritha Sai
 
-### Software Engineer | Backend Developer
+### Software Engineer 
 
 Software Engineer with 2+ years of experience building reliable and scalable software systems. Passionate about backend development, Data Structures & Algorithms, and solving complex engineering problems.
 
