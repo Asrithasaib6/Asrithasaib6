@@ -23,7 +23,7 @@ Software Engineer with 2+ years of experience building reliable and scalable sof
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,nodejs,express,mongodb,mysql,postgresql,react,django,,git,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,nodejs,express,mongodb,mysql,postgresql,react,django,git,linux" />
 </p>
 
 ---
