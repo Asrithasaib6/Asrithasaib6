@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Asritha Sai
 
-<!--
-**Asrithasaib6/Asrithasaib6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Backend Developer
 
-Here are some ideas to get you started:
+Software Engineer with 2+ years of experience building reliable and scalable software systems. Passionate about backend development, Data Structures & Algorithms, and solving complex engineering problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,nodejs,express,mongodb,mysql,postgresql,react,django,tensorflow,git,linux" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🍔 Food Ordering Application
+
+MERN stack application for restaurant browsing, menu management, authentication, and order processing.
+
+[View Project](https://github.com/Asrithasaib6/food-ordering-system)
+
+### 🧠 Brain Tumor Detection using CNNs
+
+Deep learning project for MRI image classification using Python, TensorFlow, and Keras.
+
+[View Project](https://github.com/Asrithasaib6/brain_tumor_detection)
+
+---
+
+## 🏆 Achievements
+
+* Solved 1000+ problems on LeetCode.
+* Research presented at the 3rd IEEE ICDCECE-2024.
+* Merit Scholarship recipient for academic excellence.
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/asritha-sai-morampudi/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:asrithasai.morampudi@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
