@@ -10,7 +10,7 @@ Software Engineer with 2+ years of experience building reliable and scalable sof
 <a href="https://www.linkedin.com/in/asritha-sai-morampudi/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Asrithasai123/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
 </a>
 <a href="mailto:asrithasai.morampudi@gmail.com">
