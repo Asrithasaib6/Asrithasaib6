@@ -4,6 +4,20 @@
 
 Software Engineer with 2+ years of experience building reliable and scalable software systems. Passionate about backend development, Data Structures & Algorithms, and solving complex engineering problems.
 
+## 🌐 Socials
+
+<p>
+<a href="https://www.linkedin.com/in/asritha-sai-morampudi/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:asrithasai.morampudi@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -38,19 +52,6 @@ Deep learning project for MRI image classification using Python, TensorFlow, and
 
 ---
 
-## 🌐 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/asritha-sai-morampudi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:asrithasai.morampudi@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-</p>
 
 ---
 
